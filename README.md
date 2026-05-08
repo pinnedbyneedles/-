@@ -1,1 +1,1 @@
-# image: https://pin.it/2OEjJ50wr
+# https://pin.it/2OEjJ50wr
